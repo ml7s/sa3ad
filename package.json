@@ -1,0 +1,22 @@
+{
+  "name": "sa3ad",
+  "version": "1.0.3",
+  "description": "sa3ad api ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ml7s/sa3ad.git"
+  },
+  "keywords": [
+    "sa3ad"
+  ],
+  "author": "ml7s",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ml7s/sa3ad/issues"
+  },
+  "homepage": "https://github.com/ml7s/sa3ad#readme"
+}
